@@ -1,0 +1,52 @@
+[
+    {
+        "id": "123456",
+        "cover": "https://i.ibb.co/ZMs3mHs/Whats-App-Image-2023-07-19-at-10-35-40.jpg",
+        "title": "The Enigmatic Adventure",
+        "author": "Emily A. Smith",
+        "author_img": "https://i.ibb.co/3pwDQnL/Whats-App-Image-2023-07-18-at-10-27-36.jpg",
+        "posted_date": "2023-08-25",
+        "time": "14:30:00",
+        "hashtag": "#MysteryNovel"
+    },
+    {
+        "id": "789012",
+        "cover": "https://i.ibb.co/ZMs3mHs/Whats-App-Image-2023-07-19-at-10-35-40.jpg",
+        "title": "Beyond the Stars",
+        "author": "John R. Anderson",
+        "author_img": "https://i.ibb.co/3pwDQnL/Whats-App-Image-2023-07-18-at-10-27-36.jpg",
+        "posted_date": "2023-09-01",
+        "time": "10:15:00",
+        "hashtag": "#SciFiAdventure"
+    },
+    {
+        "id": "345678",
+        "cover": "https://i.ibb.co/ZMs3mHs/Whats-App-Image-2023-07-19-at-10-35-40.jpg",
+        "title": "Secrets of the Forest",
+        "author": "Sarah L. Parker",
+        "author_img": "https://i.ibb.co/3pwDQnL/Whats-App-Image-2023-07-18-at-10-27-36.jpg",
+        "posted_date": "2023-08-19",
+        "time": "16:45:00",
+        "hashtag": "#NatureExploration"
+    },
+    {
+        "id": "901234",
+        "cover": "https://i.ibb.co/ZMs3mHs/Whats-App-Image-2023-07-19-at-10-35-40.jpg",
+        "title": "The Lost Chronicles",
+        "author": "David M. Johnson",
+        "author_img": "https://i.ibb.co/3pwDQnL/Whats-App-Image-2023-07-18-at-10-27-36.jpg",
+        "posted_date": "2023-09-05",
+        "time": "11:20:00",
+        "hashtag": "#HistoricalFiction"
+    },
+    {
+        "id": "567890",
+        "cover": "https://i.ibb.co/ZMs3mHs/Whats-App-Image-2023-07-19-at-10-35-40.jpg",
+        "title": "Virtual Realms",
+        "author": "Lisa K. Walker",
+        "author_img": "https://i.ibb.co/3pwDQnL/Whats-App-Image-2023-07-18-at-10-27-36.jpg",
+        "posted_date": "2023-08-12",
+        "time": "09:50:00",
+        "hashtag": "#VirtualRealityThriller"
+    }
+]
